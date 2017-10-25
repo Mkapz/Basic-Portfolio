@@ -231,6 +231,12 @@ input[type=submit] {
 	cursor: pointer;
 }
 
+@media screen and (max-width: 480px) {
+	#main-section {
+		width:60%;
+	}
+
+	
 
 
 
